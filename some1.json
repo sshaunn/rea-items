@@ -1,0 +1,103 @@
+{
+  "page": {
+    "pageInfo": {
+      "agencyId": 15667,
+      "author": 15667,
+      "pageId": 2019305793,
+      "pageName": "property details - buy - 2019305793 - 6/28 wilmoth street northcote vic 3070",
+      "effectiveDate": "2024-06-13T17:05:19.373",
+      "issueDate": "2024-06-13T17:05:19.367",
+      "property": {
+        "saleMethod": "privateTreaty",
+        "address": "6/28 Wilmoth Street, Northcote VIC 3070",
+        "adtype": "premiumPlus",
+        "agency": "Jellis Craig Northcote",
+        "agencyId": 15667,
+        "agentNames": "Matthew McIntosh, Grace Purchase",
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "daysListed": 3,
+        "dateListed": "2024-06-13T17:05:20",
+        "inspectionsCount": 0,
+        "hasPhoto": "True",
+        "hasFloorplan": "True",
+        "hasDisplayPrice": "True",
+        "hasDescription": "True",
+        "descriptionHasEmail": "False",
+        "descriptionHasPhone": "False",
+        "hasSOI": "True",
+        "virtualTour": "False",
+        "floorPlansCount": 1,
+        "images": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/2019305793_1_1_240613_070519-w1600-h1067",
+          "https://bucket-api.domain.com.au/v1/bucket/image/2019305793_2_1_240613_070519-w1600-h1067",
+          "https://bucket-api.domain.com.au/v1/bucket/image/2019305793_3_1_240613_070519-w1600-h1067",
+          "https://bucket-api.domain.com.au/v1/bucket/image/2019305793_4_1_240613_070519-w1600-h1067",
+          "https://bucket-api.domain.com.au/v1/bucket/image/2019305793_5_1_240613_070519-w1600-h1067",
+          "https://bucket-api.domain.com.au/v1/bucket/image/2019305793_6_1_240613_070519-w1600-h1067",
+          "https://bucket-api.domain.com.au/v1/bucket/image/2019305793_7_1_240613_070519-w1600-h1067",
+          "https://bucket-api.domain.com.au/v1/bucket/image/2019305793_8_1_240613_070519-w1600-h1067",
+          "https://bucket-api.domain.com.au/v1/bucket/image/2019305793_9_1_240613_070519-w1600-h1067"
+        ],
+        "onlineAuctionAvailable": "None",
+        "parking": 1,
+        "photoCount": 9,
+        "postcode": "3070",
+        "price": "$350,000 - $380,000",
+        "primaryPropertyType": "Apartment",
+        "structuredFeatures": [],
+        "propertyId": "UK-7847-WJ",
+        "secondaryPropertyType": "Apartment / Unit / Flat",
+        "state": "VIC",
+        "suburb": "Northcote",
+        "videoCount": 0,
+        "x-message": "domain-propertyinfo"
+      },
+      "suburbId": 31107,
+      "isEmbeddedApp": "False",
+      "source": "Unknown",
+      "nbnDetails": "HFC",
+      "brand": "domain",
+      "generator": "DO",
+      "sysEnv": "responsive"
+    },
+    "category": {
+      "primaryCategory": "Buy",
+      "subCategory1": "Property Details",
+      "pageType": "Listing"
+    },
+    "optimize": { "shortlistExperimentFlag": "True", "listingsMrecAd": "True" }
+  },
+  "titan": {
+    "adZone": "buy/details",
+    "contentWidth": "",
+    "adKeyValues": {
+      "cat": "buy",
+      "cat1": "details",
+      "ctype": "listing",
+      "e": "www.domain.com.au",
+      "locstate": "vic",
+      "locarea": ["darebin_city_council_greater_area"],
+      "locsuburb": ["northcote"],
+      "locpostcode": ["3070"],
+      "pageId": 2019305793,
+      "pageName": "property details - buy - 2019305793 - 6/28 wilmoth street northcote vic 3070",
+      "address": "6/28 Wilmoth Street, Northcote VIC 3070",
+      "usertype": "buy",
+      "medianPrice": "415K",
+      "proptypes": ["apartment_unit_flat"],
+      "bedrooms": 1
+    },
+    "adSite": "DOMAIN.COM.AU",
+    "adSlots": []
+  },
+  "adLoader": "prebid",
+  "version": "1.0",
+  "events": [],
+  "user": {
+    "membershipType": "visitor",
+    "membershipState": "Not_logged_in",
+    "dhlMembership": "inactive",
+    "ipAddress": "irHv/J7LnDHXW1aot8FhU6TkuT4LXylKlEv2Xdxzce1qP4Lp4bepzedUQ+dWINwL"
+  }
+}
